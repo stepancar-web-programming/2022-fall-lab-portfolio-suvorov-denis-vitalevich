@@ -38,14 +38,14 @@ ul li:hover {
 #dog_name {
     font-size: 50px;
     line-height: 59px;
-    margin: 10px 0px;
+    margin: 10px;
     padding: 10px;
     width: 100%;
 }
 #description {
     font-size: 25px;
     line-height: 22px;
-    margin: 20px 0px;
+    margin: 20px;
     padding: 10px;
 }
 .background {
@@ -159,7 +159,7 @@ ul li:hover {
     font-size: 17px;
 }
 .nav a:hover {
-    background-color: #ebf5ff 92%;
+    background-color: #ebf5ff;
     color: orange;
 }
 .active {
@@ -197,20 +197,12 @@ ul li:hover {
     display: inline-block;
     margin: auto;
 }
-/*.imgg{*/
-/*    height: 500px;*/
-/*    width: 750px;*/
-/*    margin: 10%;*/
-/*    margin: 10%;*/
-/*}*/
+
 .mySlides img{
     height: 740px;
     width: 1280px;
 }
-/*img{*/
-/*    height: 840px;*/
-/*    width: 1280px;2312312*/
-/*}*/
+
 .container_contacts{
     background: white;
 }
